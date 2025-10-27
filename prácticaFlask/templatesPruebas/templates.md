@@ -1,0 +1,1 @@
+En la documentación oficial de Flask dice que los templates son archivos skn documentos que contienen datos estaticos y son renderisados con datos especificos para una salida esperada
