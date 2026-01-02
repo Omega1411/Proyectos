@@ -1,0 +1,12 @@
+Como hice una clean install de Arch Linux en un VMWare:
+
+1. Descargo la iso en el sitio oficial y 
+2. La inserto en VMWare
+3. Pruebo hacer ping a google.com para comprobar que tengo internet
+4. Utilizo el comando archinstall 
+5. Eligo la región de Chile (cercana a CR)
+6. Pongo el lenguaje en español porqué el mío e sun Lenovo IDEAPAD 3 81WA y el Locale encoding UTF-8
+7. Elijo la partición deseada y el code editor ext4 por su estabilidad
+8. Elijo zram para que comprima los datos en la RAM y así séa más rápido
+9. Elijo los kernells linux y linux-lts para en caso deque falle uno tener el otro
+10. Presiono instalar
